@@ -1,5 +1,5 @@
 <?php
-
+// Inclui o arquivo 'protect.php', que contém a lógica para verificar se o usuário está autenticado
 include('protect.php');
 
 ?>
