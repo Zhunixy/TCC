@@ -1,0 +1,23 @@
+#register-form{
+    width: 50% !important;
+    margin: 5px auto;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 0.5rem;
+}
+
+#register-form input{
+    width: 50%;
+    margin: 5px auto;
+}
+
+#register-form #register-btn{
+    background-color: #fb774b;
+    color: white;
+}
+
+#register-form #login-url{
+    color: #fb774b;
+}
+
